@@ -1,36 +1,37 @@
 import java.util.Arrays;
 
 class Solution {
+
     public long gcdSum(int[] nums) {
+
         int n = nums.length;
-        int[] prefixGcd = new int[n];
+        int[] prefix = new int[n];
 
         int mx = 0;
 
-        // Build prefixGcd
         for (int i = 0; i < n; i++) {
-            mx = Math.max(mx, nums[i]);
-            prefixGcd[i] = gcd(nums[i], mx);
+            if (nums[i] > mx)
+                mx = nums[i];
+
+            prefix[i] = gcd(nums[i], mx);
         }
 
-        // Sort
-        Arrays.sort(prefixGcd);
+        Arrays.sort(prefix);
 
         long ans = 0;
 
-        // Pair smallest with largest
-        for (int i = 0; i < n / 2; i++) {
-            ans += gcd(prefixGcd[i], prefixGcd[n - 1 - i]);
+        for (int i = 0, j = n - 1; i < j; i++, j--) {
+            ans += gcd(prefix[i], prefix[j]);
         }
 
         return ans;
     }
 
-    private int gcd(int a, int b) {
+    private static int gcd(int a, int b) {
         while (b != 0) {
-            int temp = a % b;
-            a = b;
-            b = temp;
+            int t = b;
+            b = a % b;
+            a = t;
         }
         return a;
     }
