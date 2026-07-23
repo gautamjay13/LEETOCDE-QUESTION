@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/gautamjay13/LEETOCDE-QUESTION/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/gautamjay13/LEETOCDE-QUESTION/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/gautamjay13/LEETOCDE-QUESTION/tree/master/0485-max-consecutive-ones) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/gautamjay13/LEETOCDE-QUESTION/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/gautamjay13/LEETOCDE-QUESTION/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/gautamjay13/LEETOCDE-QUESTION/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/gautamjay13/LEETOCDE-QUESTION/tree/master/0268-missing-number) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/gautamjay13/LEETOCDE-QUESTION/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -59,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/gautamjay13/LEETOCDE-QUESTION/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Matrix
+|  |
+| ------- |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/gautamjay13/LEETOCDE-QUESTION/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
