@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/gautamjay13/LEETOCDE-QUESTION/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/gautamjay13/LEETOCDE-QUESTION/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/gautamjay13/LEETOCDE-QUESTION/tree/master/0268-missing-number) |
+| [0412-fizz-buzz](https://github.com/gautamjay13/LEETOCDE-QUESTION/tree/master/0412-fizz-buzz) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/gautamjay13/LEETOCDE-QUESTION/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/gautamjay13/LEETOCDE-QUESTION/tree/master/0412-fizz-buzz) |
 | [0867-transpose-matrix](https://github.com/gautamjay13/LEETOCDE-QUESTION/tree/master/0867-transpose-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/gautamjay13/LEETOCDE-QUESTION/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/gautamjay13/LEETOCDE-QUESTION/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -73,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/gautamjay13/LEETOCDE-QUESTION/tree/master/0867-transpose-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/gautamjay13/LEETOCDE-QUESTION/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/gautamjay13/LEETOCDE-QUESTION/tree/master/1572-matrix-diagonal-sum) |
+## String
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/gautamjay13/LEETOCDE-QUESTION/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
