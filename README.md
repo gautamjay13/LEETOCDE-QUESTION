@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/gautamjay13/LEETOCDE-QUESTION/tree/master/0268-missing-number) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/gautamjay13/LEETOCDE-QUESTION/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Sorting
 |  |
 | ------- |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/gautamjay13/LEETOCDE-QUESTION/tree/master/0412-fizz-buzz) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/gautamjay13/LEETOCDE-QUESTION/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -110,4 +112,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/gautamjay13/LEETOCDE-QUESTION/tree/master/1025-divisor-game) |
+## Backtracking
+|  |
+| ------- |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/gautamjay13/LEETOCDE-QUESTION/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 <!---LeetCode Topics End-->
