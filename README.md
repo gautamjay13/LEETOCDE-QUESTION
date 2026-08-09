@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/gautamjay13/LEETOCDE-QUESTION/tree/master/1572-matrix-diagonal-sum) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/gautamjay13/LEETOCDE-QUESTION/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/gautamjay13/LEETOCDE-QUESTION/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/gautamjay13/LEETOCDE-QUESTION/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/gautamjay13/LEETOCDE-QUESTION/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
 |  |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/gautamjay13/LEETOCDE-QUESTION/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/gautamjay13/LEETOCDE-QUESTION/tree/master/0268-missing-number) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/gautamjay13/LEETOCDE-QUESTION/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/gautamjay13/LEETOCDE-QUESTION/tree/master/2744-find-maximum-number-of-string-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/gautamjay13/LEETOCDE-QUESTION/tree/master/0412-fizz-buzz) |
 | [0867-transpose-matrix](https://github.com/gautamjay13/LEETOCDE-QUESTION/tree/master/0867-transpose-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/gautamjay13/LEETOCDE-QUESTION/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/gautamjay13/LEETOCDE-QUESTION/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/gautamjay13/LEETOCDE-QUESTION/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
 |  |
@@ -91,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/gautamjay13/LEETOCDE-QUESTION/tree/master/0412-fizz-buzz) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/gautamjay13/LEETOCDE-QUESTION/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/gautamjay13/LEETOCDE-QUESTION/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Dynamic Programming
 |  |
